@@ -66,7 +66,7 @@ export default function Page() {
               Malsha Parinda
             </h1>
             <p className="mx-auto mt-3 max-w-sm text-sm leading-6 text-zinc-200 sm:text-base">
-              ✨ Modern design and development solutions crafted to elevate and grow your business. 🚀
+              Modern design and development solutions crafted to elevate and grow your business. 🚀
             </p>
           </div>
 
